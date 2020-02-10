@@ -1,0 +1,13 @@
+setup.py
+mapeamentos_noticias/__init__.py
+mapeamentos_noticias/items.py
+mapeamentos_noticias/middlewares.py
+mapeamentos_noticias/pipelines.py
+mapeamentos_noticias/settings.py
+mapeamentos_noticias/spiders/__init__.py
+mapeamentos_noticias/spiders/incendios_amazonia_el_pais.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
