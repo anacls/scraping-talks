@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Web crawling e scraping com Python</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
+
+    <link rel="stylesheet" href="styles/styles.css">
+
+    <style>
+        .shower {
+            --slide-ratio: calc(16 / 9);
+            --color-key: #800000;
+        }
+    </style>
+</head>
+<body class="shower list">
+
+    <header class="caption">
+        <h1><b>Web Crawling e Scraping com Python</b></h1>
+    </header>
+
+    <section class="slide">
+            <h2 class="shout">
+                Web Crawling e Scraping <br>
+                com Python
+            </h2>
+    </section>
+    <section class="slide">   
+        <h2><b>Sobre mim</b></h2>
+        <div class="about-image">
+            <img src="img/ana.jpg" alt="Imagem de perfil do Lucas Marques" width="200">            
+        </div>
+        <div class="about-description">
+            <h3>Ana Carolina</h3>
+            <ul>
+                <li>Desenvolvedora de Software na Love Mondays</li>
+                <li>Estudante de Análise e Desenvolvimento de Sistemas</li>
+                <li>Mais informações em <a href="https://about.me/anacls">about.me/anacls</a></li>
+            </ul>
+        </div>
+    </section>
+    <section class="slide">
+            <h2 class="shout">
+                Entendendo conceitos<br>
+            </h2>
+    </section>
+    <section class="slide">
+        <h2 class="title-description"><b>O que é crawler?<br><br>O que é scraping?</b></h2>
+    </section>
+    <section class="slide">
+            <h2><b>Entendendo conceitos</b></h2>
+                <p><b>Crawlers</b><br>"Robôs" (bots ou spiders) usados para encontrar e indexar páginas de um site. <br> <b>Ex:</b> Googlebot</p>
+    </section>
+    <section class="slide">
+            <h2><b>Entendendo conceitos</b></h2>
+                <p><b>Scraping</b><br>Técnica de extração de dados usada para coletar dados de sites, buscando estruturar dados não estruturados.</p>
+    </section>
+    <section class="slide">
+            <h2><b>Scrapy</b></h2>
+            <ul>
+                <li>Framework escrito em Python voltado para web scraping e crawling</li>
+                <li>Usado para acessar sites e extrair dados estruturados das páginas</li>
+                <li>Trabalha com spiders</li>
+            </ul>
+            <div class="logo-image">
+                <img src="img/scrapy.png" alt="Scrapy logo" width="250">
+            </div>
+            
+    </section>
+
+    <section class="slide">
+            <h2 class="shout">
+                Show me the code!<br>
+            </h2>
+    </section>
+
+    <section class="slide">
+            <h2><b>Iniciando um projeto scrapy</b></h2>
+            
+            <ul>
+                <li>Iniciar o projeto: <br><code>scrapy startproject nome_do_projeto</code></li>
+                <li>Gerar spider: <br><code>genspider nome_da_spider url_inicial</code></li>
+                <li>Escrever spider</li>
+                <li>Executar spider <br> <code>scrapy crawl nome_da_spider</code></li>
+            </ul>
+    </section>
+    <section class="slide">
+            <div class="columns two">
+                <p><img src="img/dissecting_spider.jpeg" alt="Scrapy logo" width="90%"></p>
+                <h2 style='text-align:center; margin-top:35%; font-size:60px'><b>DISSECANDO<br>UMA SPIDER</b></h2>
+            </div>
+    </section>
+    <section class="slide">
+        <h2 class="title-description">Códigos disponíveis no <a href="https://github.com/anacls/scrapy-study">GitHub</a></h2>
+    </section>
+    <section class="slide">
+        <div class="example-spider-image">
+                <img src="img/spider.png" alt="Imagem de exemplo de uma spider" width="100%">
+        </div>
+    </section>
+    <section class="slide">
+        <div class="example-spider-image">
+                <img src="img/dissecting_spider_explanation.jpeg" alt="Imagem de exemplo de uma spider" width="100%">
+        </div>
+    </section>
+    <section class="slide">
+        <div class="example-spider-image">
+                <img src="img/dissecting_spider_explanation_1.png" alt="Imagem de exemplo de uma spider" width="100%">
+        </div>
+    </section>
+
+    <section class="slide">
+            <h2 class="shout">
+                Gerenciamento<br>
+                dos dados em nuvem
+            </h2>
+    </section>
+
+    <section class="slide">
+            <h2><b>Scrapinghub</b></h2>
+            <ul>
+                <li>Plataforma para rodar crawlers na nuvem</li>
+                <li>Permite agendamento de execução de spiders</li>
+                <li>Permite realizar download dos dados em diferentes formatos</li>
+                <li>Dados podem ser consumidos através da Scrapy Cloud API</li>
+            </ul>
+            <div class="logo-image">
+                <img src="img/scrapinghub.png" alt="Scrapy logo" width="250">
+            </div>
+            
+    </section>
+
+    <section class="slide">
+            <h2 class="shout">
+                Projetos que usam<br>
+                raspagem de dados
+            </h2>
+    </section>
+
+    <section class="slide">
+            <h2><b>Projetos que usam raspagem de dados</b></h2>
+            <ul>
+                <li><a href="https://www.lovemondays.com.br/">Love Mondays</a></li>
+                <li><a href="https://serenata.ai/">Operação Serenata de Amor</a></li>
+                <li><a href="https://brasil.io/home">Brasil.IO</a></li>
+            </ul>
+    </section>
+
+
+    <section class="slide">
+        <h2><b>Para saber mais:</b></h2>
+        <ul>
+            <li><a href="https://scrapy.org/">Site Oficial Scrapy</a></li>
+            <li><a href="https://github.com/scrapy/scrapy">GitHub Scrapy</a></li>
+            <li><a href="https://scrapinghub.com/">Site Oficial ScrapingHub</a></li>
+            <li><a href="https://github.com/scrapinghub/">GitHub Scrapinghub</a></li>
+            <li><a href="https://doc.scrapy.org/en/latest/intro/tutorial.html">Documentação Scrapy</a></li>
+            <li><a href="https://blog.scrapinghub.com/">Blog Scrapinghub</a></li>
+            <li><a href="https://learn.scrapinghub.com/scrapy/">Learn Scrapy</a></li>
+        </ul>
+    </section>
+
+    <section class="slide">
+        <h2 class="shout">Dúvidas?</h2>
+    </section>
+    <section class="slide">
+            <h2 class="shout">Obrigada!</h2>
+    </section>
+
+    <div class="progress"></div>
+
+	<script src="js/shower.min.js"></script>
+
+	<!-- Copyright © 2018 Yours Truly, Famous Inc. -->
+</body>
+</html>

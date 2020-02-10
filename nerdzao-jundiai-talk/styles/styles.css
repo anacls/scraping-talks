@@ -1,0 +1,62 @@
+/* Styles */
+
+@import 'fonts.css';
+@import 'shower/shower.css';
+@import 'blocks/badge.css';
+@import 'blocks/caption.css';
+@import 'blocks/progress.css';
+@import 'blocks/region.css';
+@import 'slide/slide.css';
+
+
+.about-image{
+    width: 30%;
+    float: left;
+    margin-top: 1.5em;
+}
+.about-image img{
+    border-radius: 50%;
+}
+.about-description{
+    width: 70%;
+    float: left;
+}
+
+.about-description p{
+    font-size: 14px;
+}
+
+.slide .title-description{
+    text-align: center;
+    margin-top: 3.3em;
+}
+
+.example-image{
+    text-align: center;
+}
+.logo-image{
+    width: 20%;
+    float: right;
+    margin-top: 1em;
+}
+.logo-image img{
+    width: 90%;
+}
+
+.slide .fab{
+    color: #555;
+    margin-right: 10px;
+}
+
+.slide .fas{
+    color: #555;
+    margin-right: 10px;
+}
+
+.slide .example-branch-image{
+    text-align: center;
+    margin-top: 2.5em;
+}
+.slide .example-image{
+    text-align: center;
+}
