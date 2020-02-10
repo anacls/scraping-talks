@@ -1,0 +1,33 @@
+[
+{"min_temp": "22°", "desc": "Sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite.", "data": "- 21/01", "max_temp": "33°", "dia_sem": "SEGUNDA"},
+{"min_temp": "22°", "desc": "Sol. Pancadas de chuva a qualquer hora do dia e da noite. Muitas nuvens de manhã.", "data": "- 22/01", "max_temp": "30°", "dia_sem": "TERÇA"},
+{"min_temp": "21°", "desc": "Sol com muitas nuvens. Pancadas de chuva à tarde e à noite.", "data": "- 23/01", "max_temp": "32°", "dia_sem": "QUARTA"},
+{"min_temp": "20°", "desc": "Sol. Pancadas de chuva a qualquer hora do dia e da noite. Muitas nuvens de manhã.", "data": "- 24/01", "max_temp": "30°", "dia_sem": "QUINTA"},
+{"min_temp": "21°", "desc": "Sol com muitas nuvens durante o dia. Períodos de nublado, com chuva a qualquer hora.", "data": "- 25/01", "max_temp": "28°", "dia_sem": "SEXTA"},
+{"min_temp": "20°", "desc": "Sol com muitas nuvens. Pancadas de chuva à tarde e à noite.", "data": "- 26/01", "max_temp": "30°", "dia_sem": "SÁBADO"},
+{"min_temp": "18°", "desc": "Sol com aumento de nuvens ao longo do dia. À noite ocorrem pancadas de chuva.", "data": "- 27/01", "max_temp": "29°", "dia_sem": "DOMINGO"},
+{"min_temp": "19°", "desc": "Sol com aumento de nuvens ao longo do dia. À noite ocorrem pancadas de chuva.", "data": "- 28/01", "max_temp": "29°", "dia_sem": "SEGUNDA"},
+{"min_temp": "18°", "desc": "Sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite.", "data": "- 29/01", "max_temp": "30°", "dia_sem": "TERÇA"},
+{"min_temp": "19°", "desc": "Sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite.", "data": "- 30/01", "max_temp": "30°", "dia_sem": "QUARTA"},
+{"min_temp": "20°", "desc": "Sol com aumento de nuvens ao longo do dia. À noite ocorrem pancadas de chuva.", "data": "- 31/01", "max_temp": "29°", "dia_sem": "QUINTA"},
+{"min_temp": "20°", "desc": "Sol e aumento de nuvens de manhã. Pancadas de chuva à tarde. À noite o tempo fica aberto.", "data": "- 01/02", "max_temp": "27°", "dia_sem": "SEXTA"},
+{"min_temp": "20°", "desc": "Sol com algumas nuvens. Não chove.", "data": "- 02/02", "max_temp": "28°", "dia_sem": "SÁBADO"},
+{"min_temp": "19°", "desc": "Sol o dia todo sem nuvens no céu. Noite de tempo aberto ainda sem nuvens.", "data": "- 03/02", "max_temp": "27°", "dia_sem": "DOMINGO"},
+{"min_temp": "18°", "desc": "Sol o dia todo sem nuvens no céu. Noite de tempo aberto ainda sem nuvens.", "data": "- 04/02", "max_temp": "28°", "dia_sem": "SEGUNDA"}
+][
+{"min_temp": "22°", "desc": "Sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite.", "data": "- 21/01", "max_temp": "33°", "dia_sem": "SEGUNDA"},
+{"min_temp": "22°", "desc": "Sol. Pancadas de chuva a qualquer hora do dia e da noite. Muitas nuvens de manhã.", "data": "- 22/01", "max_temp": "30°", "dia_sem": "TERÇA"},
+{"min_temp": "21°", "desc": "Sol com muitas nuvens. Pancadas de chuva à tarde e à noite.", "data": "- 23/01", "max_temp": "32°", "dia_sem": "QUARTA"},
+{"min_temp": "20°", "desc": "Sol. Pancadas de chuva a qualquer hora do dia e da noite. Muitas nuvens de manhã.", "data": "- 24/01", "max_temp": "30°", "dia_sem": "QUINTA"},
+{"min_temp": "21°", "desc": "Sol com muitas nuvens durante o dia. Períodos de nublado, com chuva a qualquer hora.", "data": "- 25/01", "max_temp": "28°", "dia_sem": "SEXTA"},
+{"min_temp": "20°", "desc": "Sol com muitas nuvens. Pancadas de chuva à tarde e à noite.", "data": "- 26/01", "max_temp": "30°", "dia_sem": "SÁBADO"},
+{"min_temp": "18°", "desc": "Sol com aumento de nuvens ao longo do dia. À noite ocorrem pancadas de chuva.", "data": "- 27/01", "max_temp": "29°", "dia_sem": "DOMINGO"},
+{"min_temp": "19°", "desc": "Sol com aumento de nuvens ao longo do dia. À noite ocorrem pancadas de chuva.", "data": "- 28/01", "max_temp": "29°", "dia_sem": "SEGUNDA"},
+{"min_temp": "18°", "desc": "Sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite.", "data": "- 29/01", "max_temp": "30°", "dia_sem": "TERÇA"},
+{"min_temp": "19°", "desc": "Sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite.", "data": "- 30/01", "max_temp": "30°", "dia_sem": "QUARTA"},
+{"min_temp": "20°", "desc": "Sol com aumento de nuvens ao longo do dia. À noite ocorrem pancadas de chuva.", "data": "- 31/01", "max_temp": "29°", "dia_sem": "QUINTA"},
+{"min_temp": "20°", "desc": "Sol e aumento de nuvens de manhã. Pancadas de chuva à tarde. À noite o tempo fica aberto.", "data": "- 01/02", "max_temp": "27°", "dia_sem": "SEXTA"},
+{"min_temp": "20°", "desc": "Sol com algumas nuvens. Não chove.", "data": "- 02/02", "max_temp": "28°", "dia_sem": "SÁBADO"},
+{"min_temp": "19°", "desc": "Sol o dia todo sem nuvens no céu. Noite de tempo aberto ainda sem nuvens.", "data": "- 03/02", "max_temp": "27°", "dia_sem": "DOMINGO"},
+{"min_temp": "18°", "desc": "Sol o dia todo sem nuvens no céu. Noite de tempo aberto ainda sem nuvens.", "data": "- 04/02", "max_temp": "28°", "dia_sem": "SEGUNDA"}
+]
