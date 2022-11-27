@@ -19,6 +19,6 @@ Palestras sobre raspagem de dados ministradas em eventos da comunidade.
 * **[Web Scraping com Python](https://github.com/anacls/scraping-talks/tree/master/web-scraping-com-python-incendios-amazonia)**
 
   **Descrição:** Introdução à raspagem de dados na internet utilizando as ferramentas BeautifulSoup e Scrapy para raspar dados 
-referentes aos incêndios na Amazônia. ([slides](https://speakerdeck.com/anacls/web-scraping-com-python-talk-womakerscode))
+referentes aos incêndios na Amazônia. ([slides](https://speakerdeck.com/anacls/web-scraping-com-python))
 
   *Ministrada no evento da comunidade **NerdGirlz** [(Nerdzão)](https://www.meetup.com/Nerdzao/). (29/08/2019)*
